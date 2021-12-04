@@ -6,14 +6,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyDYv02aLpqUgtJIP9CbT31mOHpu0a77xLM",
-    authDomain: "cdk-admin.firebaseapp.com",
-    databaseURL: "https://cdk-admin.firebaseio.com",
-    projectId: "cdk-admin",
-    storageBucket: "cdk-admin.appspot.com",
-    messagingSenderId: "422055031001",
-    appId: "1:422055031001:web:261c3f03c6dbe830df8ec8",
-    measurementId: "G-NYGXB63DCC"
+    apiKey: "AIzaSyASoUr_0f2rad-yovixZvYKsmhlUfu27vA",
+    authDomain: "angularadmin-857e4.firebaseapp.com",
+    databaseURL: "https://angularadmin-857e4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "angularadmin-857e4",
+    storageBucket: "angularadmin-857e4.appspot.com",
+    messagingSenderId: "542687656530",
+    appId: "1:542687656530:web:7fd9d6d8f0d160ed6fbd8b",
   },
   mailApi: '/assets/list.json'
 };
